@@ -19,7 +19,7 @@
 </tr>
 </table>
 <ul>
-<li>http://www.postel.org/pipermail/internet-history/2008-January.txt</li>
+<li><a href="https://web.archive.org/web/20161018144509/https://www.postel.org/pipermail/internet-history/2008-January.txt">http://www.postel.org/pipermail/internet-history/2008-January.txt</a></li>
 </ul>
 <h2>HOSTS.TXT (NCP, before TCP/IP)</h2>
 <table border="1">
